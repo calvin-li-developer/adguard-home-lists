@@ -6,3 +6,4 @@
 ||advice-ads.s3.amazonaws.com^
 ||adservetx.media.net^
 ||mouseflow.com^
+||cdn.mouseflow.com^
