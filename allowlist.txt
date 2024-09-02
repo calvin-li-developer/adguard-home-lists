@@ -1,0 +1,15 @@
+@@||www.pon.wiki^$important
+@@||pon.wiki^$important
+@@||akidoo.top^$important
+@@||www.akidoo.top^$important
+@@||ba.alphafish.top^$important
+@@||ba.balley.top^$important
+@@||ba.apperoni.top^$important
+@@||www.javhd.today^$important
+@@||javhd.today^$important
+@@||auth.acloud.guru^$important
+@@||learn.acloud.guru^$important
+@@||prod-api.acloud.guru^$important
+@@||cdn.split.io^$important
+@@||acloud.guru^$important
+@@||sdk.split.io^$important
