@@ -14,3 +14,4 @@
 @@||acloud.guru^$important
 @@||sdk.split.io^$important
 @@||control.kochava.com^$important
+@@||pahe.win^$important
