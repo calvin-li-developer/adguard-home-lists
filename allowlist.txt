@@ -22,3 +22,7 @@
 @@||adshnk.com^$important
 @@||www.adshnk.com^$important
 @@||wurfl.io^$important
+@@||www.shrinkme.ink^$important
+@@||shrinkme.ink^$important
+@@||www.t.co^$important
+@@||t.co^$important
