@@ -21,3 +21,4 @@
 @@||tech.unblockedgames.world^$important
 @@||adshnk.com^$important
 @@||www.adshnk.com^$important
+@@||wurfl.io^$important
