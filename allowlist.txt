@@ -26,3 +26,4 @@
 @@||shrinkme.ink^$important
 @@||www.t.co^$important
 @@||t.co^$important
+@@||www.ripped.guide^$important
