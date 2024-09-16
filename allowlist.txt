@@ -34,3 +34,5 @@
 @@||moviesmod.space^$important
 @@||www.uhdmovies.mov^$important
 @@||uhdmovies.mov^$important
+@@||vadapav.mov^$important
+@@||www.vadapav.mov^$important
