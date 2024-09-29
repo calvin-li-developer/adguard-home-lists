@@ -36,3 +36,5 @@
 @@||uhdmovies.mov^$important
 @@||vadapav.mov^$important
 @@||www.vadapav.mov^$important
+@@||anydebrid.com^$important
+@@||www.anydebrid.com^$important
