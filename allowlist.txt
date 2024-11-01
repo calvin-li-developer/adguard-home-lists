@@ -40,3 +40,6 @@
 @@||www.anydebrid.com^$important
 @@||gamebounty.world^$important
 @@||www.gamebounty.world^$important
+@@||cdn-go.cn^$important
+@@||www.cdn-go.cn^$important
+
