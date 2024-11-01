@@ -42,4 +42,7 @@
 @@||www.gamebounty.world^$important
 @@||cdn-go.cn^$important
 @@||www.cdn-go.cn^$important
+@@||qq-web-other.cdn-go.cn^$important
+@@||qq-web-legacy.cdn-go.cn^$important
+
 
