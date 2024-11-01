@@ -46,4 +46,4 @@
 @@||qq-web-legacy.cdn-go.cn^$important
 @@||dns.weixin.qq.com^$important
 @@||aegis.qq.com^$important
-
+@@||trk.dbrand.com^$important
