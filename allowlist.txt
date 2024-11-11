@@ -48,20 +48,10 @@
 @@||aegis.qq.com^$important
 @@||trk.dbrand.com^$important
 
-# bestbuy site
+# Best Buy Site
 @@||strack.bestbuy.ca^$important 
 @@||image.communications.bestbuypromotions.ca^$important # bestbuy site
 
-# lenovo site
-@@||p1-ofp.static.pub^$important
-@@||p3-ofp.static.pub^$important
-@@||p4-ofp.static.pub^$important
-@@||j1-ofp.static.pub^$important
-@@||c1-ofp.static.pub^$important
-@@||p4-ofp.static.pub^$important
-@@||p1-ofp.static.pub^$important
-@@||p3-ofp.static.pub^$important
-@@||j1-ofp.static.pub^$important
-@@||p2-ofp.static.pub^$important
-@@||c1-ofp.static.pub^$important
+# Lenovo Site
+@@||static.pub^$important
 
