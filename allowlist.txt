@@ -47,11 +47,21 @@
 @@||dns.weixin.qq.com^$important
 @@||aegis.qq.com^$important
 @@||trk.dbrand.com^$important
-@@||strack.bestbuy.ca^$important # bestbuy site
-@@||p4-ofp.static.pub^$important # lenovo site
-@@||p1-ofp.static.pub^$important # lenovo site
-@@||p3-ofp.static.pub^$important # lenovo site
-@@||j1-ofp.static.pub^$important # lenovo site
-@@||p2-ofp.static.pub^$important # lenovo site
-@@||c1-ofp.static.pub^$important # lenovo site
+
+# bestbuy site
+@@||strack.bestbuy.ca^$important 
+@@||image.communications.bestbuypromotions.ca^$important # bestbuy site
+
+# lenovo site
+@@||p1-ofp.static.pub^$important
+@@||p3-ofp.static.pub^$important
+@@||p4-ofp.static.pub^$important
+@@||j1-ofp.static.pub^$important
+@@||c1-ofp.static.pub^$important
+@@||p4-ofp.static.pub^$important
+@@||p1-ofp.static.pub^$important
+@@||p3-ofp.static.pub^$important
+@@||j1-ofp.static.pub^$important
+@@||p2-ofp.static.pub^$important
+@@||c1-ofp.static.pub^$important
 
