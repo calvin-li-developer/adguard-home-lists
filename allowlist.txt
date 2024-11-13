@@ -9,7 +9,7 @@
 @@||www.sodapoppin.shop^$important
 @@||sodapoppin.shop^$important
 
-#Misc
+# Misc
 @@||www.pon.wiki^$important
 @@||pon.wiki^$important
 @@||akidoo.top^$important
