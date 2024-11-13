@@ -55,3 +55,8 @@
 # Lenovo Site
 @@||static.pub^$important
 
+# Sodapoppin
+@@||www.sodapoppin.shop^$important
+@@||sodapoppin.shop^$important
+
+
