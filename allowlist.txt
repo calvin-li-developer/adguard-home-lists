@@ -10,6 +10,8 @@
 @@||sodapoppin.shop^$important
 
 # Misc
+@@||www.pros.lol^$important
+@@||pros.lol^$important
 @@||www.pon.wiki^$important
 @@||pon.wiki^$important
 @@||akidoo.top^$important
