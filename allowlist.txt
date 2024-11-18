@@ -10,6 +10,7 @@
 @@||sodapoppin.shop^$important
 
 # Misc
+@@||chart-embed.service.eu.newrelic.com^$important
 @@||www.pros.lol^$important
 @@||pros.lol^$important
 @@||www.pon.wiki^$important
