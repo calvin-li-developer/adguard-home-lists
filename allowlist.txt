@@ -9,6 +9,10 @@
 @@||www.sodapoppin.shop^$important
 @@||sodapoppin.shop^$important
 
+#VPN
+@@||www.privateinternetaccess.com^$important
+@@||privateinternetaccess.com^$important
+
 # Misc
 @@||www.pros.lol^$important
 @@||pros.lol^$important
