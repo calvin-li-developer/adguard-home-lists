@@ -9,6 +9,11 @@
 @@||www.sodapoppin.shop^$important
 @@||sodapoppin.shop^$important
 
+# YouTube
+@@||www.youtube.com^$important
+@@||youtube.com^$important
+@@||m.youtube.com^$important
+
 # VPN
 @@||www.privateinternetaccess.com^$important
 @@||privateinternetaccess.com^$important
