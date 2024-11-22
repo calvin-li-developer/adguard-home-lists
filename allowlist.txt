@@ -1,6 +1,6 @@
 # Best Buy Site
 @@||strack.bestbuy.ca^$important 
-@@||image.communications.bestbuypromotions.ca^$important # bestbuy site
+@@||image.communications.bestbuypromotions.ca^$important
 
 # Lenovo Site
 @@||static.pub^$important
@@ -49,6 +49,9 @@
 @@||shrinkme.ink^$important
 @@||www.t.co^$important
 @@||t.co^$important
+@@||www4.javhdporn.net^$important
+@@||jav.pub^$important
+@@||javhdz.today^$important
 @@||www.ripped.guide^$important
 @@||ripped.guide^$important
 @@||www.pahe.ink^$important
