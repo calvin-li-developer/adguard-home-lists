@@ -14,9 +14,11 @@
 @@||youtube.com^$important
 @@||m.youtube.com^$important
 
-# VPN
+# VPNs
 @@||www.privateinternetaccess.com^$important
 @@||privateinternetaccess.com^$important
+@@||www.protonvpn.com^$important
+@@||protonvpn.com^$important
 
 # Misc
 @@||www.pros.lol^$important
