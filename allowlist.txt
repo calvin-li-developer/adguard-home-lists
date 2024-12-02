@@ -23,6 +23,8 @@
 @@||privateinternetaccess.com^$important
 @@||www.protonvpn.com^$important
 @@||protonvpn.com^$important
+@@||wireguard.com^$important
+@@||vpn-api.proton.me^$important
 
 # Misc
 @@||www.pros.lol^$important
