@@ -5,6 +5,7 @@
 # Lenovo Site
 @@||static.pub^$important
 @@||forums.lenovo.com^$important
+@@||lenovo.com^$important
 
 # Sodapoppin
 @@||www.sodapoppin.shop^$important
