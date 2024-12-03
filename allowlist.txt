@@ -28,6 +28,9 @@
 @@||wireguard.com^$important
 @@||vpn-api.proton.me^$important
 
+# Banking
+@@||bmo.com^$important
+
 # Misc
 @@||www.pros.lol^$important
 @@||pros.lol^$important
