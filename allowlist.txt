@@ -30,6 +30,9 @@
 
 # Banking
 @@||bmo.com^$important
+@@||td.com^$important
+@@||scotiabank.com^$important
+@@||royalbank.com^$important
 
 # Misc
 @@||www.pros.lol^$important
