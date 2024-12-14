@@ -71,6 +71,7 @@
 @@||www.ripped.guide^$important
 @@||ripped.guide^$important
 @@||www.pahe.ink^$important
+@@||plausible.io^$important
 @@||www.sextb.net^$important
 @@||sextb.net^$important
 @@||www.moviesmod.space^$important
