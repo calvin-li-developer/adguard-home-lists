@@ -28,6 +28,10 @@
 @@||wireguard.com^$important
 @@||vpn-api.proton.me^$important
 
+# Bell Canada
+@@||plausible.io^$important
+@@||ipgeolocation.abstractapi.com^$important
+
 # Banking
 @@||bmo.com^$important
 @@||td.com^$important
@@ -71,7 +75,6 @@
 @@||www.ripped.guide^$important
 @@||ripped.guide^$important
 @@||www.pahe.ink^$important
-@@||plausible.io^$important
 @@||www.sextb.net^$important
 @@||sextb.net^$important
 @@||www.moviesmod.space^$important
