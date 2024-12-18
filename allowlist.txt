@@ -66,6 +66,7 @@
 @@||ct.pinterest.com^$important
 @@||adshnk.com^$important
 @@||www.adshnk.com^$important
+@@||yuzunoki.square.site^$important
 @@||wurfl.io^$important
 @@||www.shrinkme.ink^$important
 @@||shrinkme.ink^$important
