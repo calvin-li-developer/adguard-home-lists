@@ -62,6 +62,8 @@
 @@||www.uhdmovies.dad^$important
 @@||uhdmovies.dad^$important
 @@||tech.unblockedgames.world^$important
+@@||monorail-edge.shopifysvc.com^$important
+@@||ct.pinterest.com^$important
 @@||adshnk.com^$important
 @@||www.adshnk.com^$important
 @@||wurfl.io^$important
