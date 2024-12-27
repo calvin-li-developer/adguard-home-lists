@@ -1,3 +1,4 @@
+# Add to "Custom filtering rules"
 10.0.0.202 handbrake.internal
 10.0.53.10 dns1.internal
 10.0.53.20 dns2.internal
