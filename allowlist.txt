@@ -52,6 +52,7 @@
 @@||www.javhd.today^$important
 @@||javhd.today^$important
 @@||auth.acloud.guru^$important
+@@||heimdall.site^$important
 @@||learn.acloud.guru^$important
 @@||prod-api.acloud.guru^$important
 @@||cdn.split.io^$important
