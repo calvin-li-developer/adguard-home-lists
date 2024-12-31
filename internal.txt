@@ -1,5 +1,4 @@
 # Add to "Custom filtering rules"
-
 # Pfsense
 10.0.0.1 pfsense.internal
 
