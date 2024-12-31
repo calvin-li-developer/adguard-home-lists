@@ -1,8 +1,18 @@
 # Add to "Custom filtering rules"
-10.0.0.202 handbrake.internal
+
+# Pfsense
+10.0.0.1 pfsense.internal
+
+# DNS
 10.0.53.10 dns1.internal
 10.0.53.20 dns2.internal
+
+# Windows
 10.0.0.201 fenestraos.internal
+
+# Linux
 10.0.10.100 jarvis.internal
-10.0.0.1 pfsense.internal
+10.0.0.202 handbrake.internal
+
+# Synology
 10.0.0.100 syno.internal
