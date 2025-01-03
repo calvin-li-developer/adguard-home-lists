@@ -87,6 +87,7 @@
 @@||pahe.ink^$important
 @@||moviesmod.space^$important
 @@||www.uhdmovies.mov^$important
+@@||media.flixcar.com^$important
 @@||uhdmovies.mov^$important
 @@||vadapav.mov^$important
 @@||www.vadapav.mov^$important
