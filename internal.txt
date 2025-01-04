@@ -10,7 +10,7 @@
 10.0.0.201 fenestraos.internal
 
 # Linux
-10.0.10.100 jarvis.internal
+10.0.0.250 jarvis.internal
 10.0.0.202 handbrake.internal
 
 # Synology
