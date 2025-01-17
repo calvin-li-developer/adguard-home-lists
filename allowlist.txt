@@ -81,7 +81,6 @@
 @@||tcpip.wtf^$important
 @@||amico.com^$important
 @@||www.ripped.guide^$important
-@@||monoprice.sc.omtrdc.net^$important
 @@||ripped.guide^$important
 @@||www.pahe.ink^$important
 @@||www.sextb.net^$important
@@ -96,11 +95,8 @@
 @@||vadapav.mov^$important
 @@||www.vadapav.mov^$important
 @@||anydebrid.com^$important
-@@||dpm.demdex.net^$important
 @@||www.anydebrid.com^$important
-@@||collector-pxs2wzhau8.px-cloud.net^$important
 @@||gamebounty.world^$important
-@@||cloudfront.net^$important
 @@||www.gamebounty.world^$important
 @@||cdn-go.cn^$important
 @@||www.cdn-go.cn^$important
