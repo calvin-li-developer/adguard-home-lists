@@ -99,6 +99,7 @@
 @@||www.anydebrid.com^$important
 @@||collector-pxs2wzhau8.px-cloud.net^$important
 @@||gamebounty.world^$important
+@@||cloudfront.net^$important
 @@||www.gamebounty.world^$important
 @@||cdn-go.cn^$important
 @@||www.cdn-go.cn^$important
