@@ -81,6 +81,7 @@
 @@||tcpip.wtf^$important
 @@||amico.com^$important
 @@||www.ripped.guide^$important
+@@||monoprice.sc.omtrdc.net^$important
 @@||ripped.guide^$important
 @@||www.pahe.ink^$important
 @@||www.sextb.net^$important
