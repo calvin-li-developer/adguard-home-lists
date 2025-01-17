@@ -96,6 +96,7 @@
 @@||vadapav.mov^$important
 @@||www.vadapav.mov^$important
 @@||anydebrid.com^$important
+@@||dpm.demdex.net^$important
 @@||www.anydebrid.com^$important
 @@||collector-pxs2wzhau8.px-cloud.net^$important
 @@||gamebounty.world^$important
