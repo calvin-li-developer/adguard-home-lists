@@ -95,7 +95,6 @@
 @@||uhdmovies.mov^$important
 @@||vadapav.mov^$important
 @@||www.vadapav.mov^$important
-@@||trace.svc.ui.com^$important
 @@||anydebrid.com^$important
 @@||www.anydebrid.com^$important
 @@||gamebounty.world^$important
