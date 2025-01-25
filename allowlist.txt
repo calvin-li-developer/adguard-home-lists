@@ -95,7 +95,7 @@
 @@||uhdmovies.mov^$important
 @@||vadapav.mov^$important
 @@||www.vadapav.mov^$important
-@@||o21767.ingest.sentry.io^$important
+@@||trace.svc.ui.com^$important
 @@||anydebrid.com^$important
 @@||www.anydebrid.com^$important
 @@||gamebounty.world^$important
