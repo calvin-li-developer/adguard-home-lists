@@ -89,6 +89,7 @@
 @@||pahe.ink^$important
 @@||passport.amazon.jobs^$important
 @@||technical.city^$important
+@@||worker.dlproxy.site^$important
 @@||moviesmod.space^$important
 @@||www.uhdmovies.mov^$important
 @@||media.flixcar.com^$important
