@@ -28,6 +28,7 @@
 @@||wireguard.com^$important
 @@||vpn-api.proton.me^$important
 @@||nslookup.io^$important
+@@||mullvad.net^$important
 
 # Bell Canada
 @@||plausible.io^$important
