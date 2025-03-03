@@ -29,6 +29,9 @@
 @@||vpn-api.proton.me^$important
 @@||nslookup.io^$important
 @@||mullvad.net^$important
+@@||tor.bravesoftware.com^$important
+@@||bridges.torproject.org^$important
+
 
 # Bell Canada
 @@||plausible.io^$important
