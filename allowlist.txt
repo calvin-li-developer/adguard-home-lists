@@ -1,15 +1,9 @@
-# Best Buy Site
-@@||strack.bestbuy.ca^$important 
-@@||image.communications.bestbuypromotions.ca^$important
-
-# Lenovo Site
+# E-commerce Site
 @@||static.pub^$important
 @@||forums.lenovo.com^$important
 @@||lenovo.com^$important
-
-# Sodapoppin
-@@||www.sodapoppin.shop^$important
-@@||sodapoppin.shop^$important
+@@||strack.bestbuy.ca^$important 
+@@||image.communications.bestbuypromotions.ca^$important
 
 # YouTube
 @@||www.youtube.com^$important
@@ -32,7 +26,6 @@
 @@||tor.bravesoftware.com^$important
 @@||bridges.torproject.org^$important
 
-
 # Bell Canada
 @@||plausible.io^$important
 @@||ipgeolocation.abstractapi.com^$important
@@ -42,6 +35,10 @@
 @@||td.com^$important
 @@||scotiabank.com^$important
 @@||royalbank.com^$important
+
+# Streaming
+@@||www.sodapoppin.shop^$important
+@@||sodapoppin.shop^$important
 
 # Misc
 @@||www.pros.lol^$important
