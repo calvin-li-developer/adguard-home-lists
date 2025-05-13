@@ -35,6 +35,7 @@
 @@||td.com^$important
 @@||scotiabank.com^$important
 @@||royalbank.com^$important
+@@||bmo.com.ssl.d1.sc.omtrdc.net^$important
 
 # Streaming
 @@||www.sodapoppin.shop^$important
