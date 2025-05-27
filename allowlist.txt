@@ -4,7 +4,6 @@
 @@||lenovo.com^$important
 @@||strack.bestbuy.ca^$important 
 @@||image.communications.bestbuypromotions.ca^$important
-@@||fls-na.amazon.ca^$important
 
 # YouTube
 @@||www.youtube.com^$important
