@@ -113,5 +113,6 @@
 @@||trk.dbrand.com^$important
 @@||bf80996fas.bf.dynatrace.com^$important
 @@||hubmanchubgirl.store^$important
+@@||jwplayer.com^$important
 
 
