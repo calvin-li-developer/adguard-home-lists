@@ -105,6 +105,7 @@
 @@||gamebounty.world^$important
 @@||www.gamebounty.world^$important
 @@||cdn-go.cn^$important
+@@||prd.jwpltx.com^$important
 @@||www.cdn-go.cn^$important
 @@||qq-web-other.cdn-go.cn^$important
 @@||qq-web-legacy.cdn-go.cn^$important
