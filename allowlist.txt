@@ -117,6 +117,7 @@
 @@||hubmanchubgirl.store^$important
 @@||jwplayer.com^$important
 @@||streamsb.net^$important
+@@||www.filecrypt.cc^$important
 @@||5masterzzz.site^$important
 @@||5liamnguyen.site^$important
 @@||5isabellaclark.site^$important
