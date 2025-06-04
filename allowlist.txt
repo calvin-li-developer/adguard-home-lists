@@ -41,6 +41,9 @@
 @@||www.sodapoppin.shop^$important
 @@||sodapoppin.shop^$important
 
+# Hotel
+@@||www.shangri-la.com^$important
+
 # Misc
 @@||www.pros.lol^$important
 @@||pros.lol^$important
