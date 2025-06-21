@@ -5,6 +5,9 @@
 @@||strack.bestbuy.ca^$important 
 @@||image.communications.bestbuypromotions.ca^$important
 
+# Spotify
+@@||wl.spotify.com^$important
+
 # YouTube
 @@||www.youtube.com^$important
 @@||youtube.com^$important
