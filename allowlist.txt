@@ -118,6 +118,7 @@
 @@||qq-web-other.cdn-go.cn^$important
 @@||qq-web-legacy.cdn-go.cn^$important
 @@||javguard.club^$important
+@@||javx.cc^$important
 @@||dns.weixin.qq.com^$important
 @@||aegis.qq.com^$important
 @@||trk.dbrand.com^$important
