@@ -60,6 +60,7 @@
 @@||www.javhd.today^$important
 @@||javhd.today^$important
 @@||auth.acloud.guru^$important
+@@||dt-cdn.net^$important
 @@||heimdall.site^$important
 @@||learn.acloud.guru^$important
 @@||prod-api.acloud.guru^$important
