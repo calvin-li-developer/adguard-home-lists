@@ -28,6 +28,7 @@
 @@||mullvad.net^$important
 @@||tor.bravesoftware.com^$important
 @@||bridges.torproject.org^$important
+@@||tailscale.com^$important
 
 # Bell Canada
 @@||plausible.io^$important
