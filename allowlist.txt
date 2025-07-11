@@ -127,6 +127,7 @@
 @@||trk.dbrand.com^$important
 @@||bf80996fas.bf.dynatrace.com^$important
 @@||hubmanchubgirl.store^$important
+@@||p16-tiktok-ads-sg.tiktokcdn.com^$important
 @@||jwplayer.com^$important
 @@||streamsb.net^$important
 @@||www.filecrypt.cc^$important
