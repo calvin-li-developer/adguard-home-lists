@@ -30,6 +30,9 @@
 @@||bridges.torproject.org^$important
 @@||tailscale.com^$important
 
+# GitHub
+@@||github.careers^$important
+
 # Bell Canada
 @@||plausible.io^$important
 @@||ipgeolocation.abstractapi.com^$important
