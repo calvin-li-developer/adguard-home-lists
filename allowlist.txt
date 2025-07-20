@@ -5,10 +5,16 @@
 @@||strack.bestbuy.ca^$important 
 @@||image.communications.bestbuypromotions.ca^$important
 
+# TLD
+@@||*.space^$important
+@@||*.store^$important
+@@||*.site^$important
+
 # Spotify
 @@||wl.spotify.com^$important
 
 # YouTube
+
 @@||www.youtube.com^$important
 @@||youtube.com^$important
 @@||m.youtube.com^$important
@@ -66,7 +72,6 @@
 @@||javhd.today^$important
 @@||auth.acloud.guru^$important
 @@||dt-cdn.net^$important
-@@||heimdall.site^$important
 @@||learn.acloud.guru^$important
 @@||prod-api.acloud.guru^$important
 @@||cdn.split.io^$important
@@ -82,11 +87,9 @@
 @@||ct.pinterest.com^$important
 @@||adshnk.com^$important
 @@||www.adshnk.com^$important
-@@||yuzunoki.square.site^$important
 @@||wurfl.io^$important
 @@||www.shrinkme.ink^$important
 @@||shrinkme.ink^$important
-@@||ubs.edmateo.site^$important
 @@||www.t.co^$important
 @@||t.co^$important
 @@||stbhg.click^$important
@@ -107,7 +110,6 @@
 @@||passport.amazon.jobs^$important
 @@||tilt.fyi^$important
 @@||technical.city^$important
-@@||worker.dlproxy.site^$important
 @@||moviesmod.space^$important
 @@||www.uhdmovies.mov^$important
 @@||media.flixcar.com^$important
@@ -135,21 +137,6 @@
 @@||jwplayer.com^$important
 @@||streamsb.net^$important
 @@||www.filecrypt.cc^$important
-@@||5masterzzz.site^$important
-@@||neospark47.site^$important
-@@||5lucastaylor.site^$important
 @@||retrojav.cc^$important
-@@||starvibe24.space^$important
-@@||surrit.store^$important
-@@||5avarodriguez.site^$important
-@@||glowgrid99.site^$important
-@@||5liamnguyen.site^$important
-@@||5noahkim.site^$important
-@@||5isabellaclark.site^$important
-@@||5sophiamartinez.site^$important
-@@||5emmawilson.site^$important
-@@||5ethandavis.site^$important
-@@||5masonlee.site^$important
-@@||5oliviabrown.site^$important
 @@||www.roomies.pics^$important
 
