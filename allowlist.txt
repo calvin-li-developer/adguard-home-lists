@@ -1,14 +1,14 @@
+# TLD
+@@||*.space^$important
+@@||*.store^$important
+@@||*.site^$important
+
 # E-commerce Site
 @@||static.pub^$important
 @@||forums.lenovo.com^$important
 @@||lenovo.com^$important
 @@||strack.bestbuy.ca^$important 
 @@||image.communications.bestbuypromotions.ca^$important
-
-# TLD
-@@||*.space^$important
-@@||*.store^$important
-@@||*.site^$important
 
 # Spotify
 @@||wl.spotify.com^$important
