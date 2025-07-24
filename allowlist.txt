@@ -1,4 +1,5 @@
 # TLD
+@@||*.top^$important
 @@||*.space^$important
 @@||*.store^$important
 @@||*.site^$important
