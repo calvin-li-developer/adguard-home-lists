@@ -137,6 +137,7 @@
 @@||hubmanchubgirl.store^$important
 @@||p16-tiktok-ads-sg.tiktokcdn.com^$important
 @@||jwplayer.com^$important
+@@||dnsspeedtest.online^$important
 @@||streamsb.net^$important
 @@||www.filecrypt.cc^$important
 @@||retrojav.cc^$important
