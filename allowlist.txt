@@ -4,6 +4,9 @@
 @@||*.store^$important
 @@||*.site^$important
 
+# Riot Games
+@@||featureassets.org^$important
+
 # E-commerce Site
 @@||static.pub^$important
 @@||forums.lenovo.com^$important
@@ -15,7 +18,6 @@
 @@||wl.spotify.com^$important
 
 # YouTube
-
 @@||www.youtube.com^$important
 @@||youtube.com^$important
 @@||m.youtube.com^$important
@@ -143,5 +145,4 @@
 @@||retrojav.cc^$important
 @@||www.roomies.pics^$important
 @@||filecrypt.cc^$important
-@@||featureassets.org^$important
 
