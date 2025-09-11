@@ -67,6 +67,7 @@
 # Misc
 @@||www.pros.lol^$important
 @@||pros.lol^$important
+@@||compress.lol^$important
 @@||www.pon.wiki^$important
 @@||pon.wiki^$important
 @@||akidoo.top^$important
