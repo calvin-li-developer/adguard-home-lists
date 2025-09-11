@@ -14,6 +14,10 @@
 @@||strack.bestbuy.ca^$important 
 @@||image.communications.bestbuypromotions.ca^$important
 
+# Amazon
+@@||cloudfront.net^$important
+@@||passport.amazon.jobs^$important
+
 # Spotify
 @@||wl.spotify.com^$important
 
@@ -111,7 +115,6 @@
 @@||tiktokcdn.com.bytegeo.akadns.net^$important
 @@||www.moviesmod.space^$important
 @@||pahe.ink^$important
-@@||passport.amazon.jobs^$important
 @@||tilt.fyi^$important
 @@||technical.city^$important
 @@||moviesmod.space^$important
