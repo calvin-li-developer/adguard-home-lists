@@ -66,6 +66,7 @@
 @@||shangri-la.com^$important
 
 # Misc
+@@||scloudx.lol^$important
 @@||scloudx.qzz.io^$important
 @@||www.pros.lol^$important
 @@||pros.lol^$important
