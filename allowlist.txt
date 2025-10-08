@@ -66,6 +66,8 @@
 @@||shangri-la.com^$important
 
 # Misc
+@@||topmovies.rip^$important
+@@||moviesmod.plus^$important
 @@||scloudx.lol^$important
 @@||scloudx.qzz.io^$important
 @@||www.pros.lol^$important
