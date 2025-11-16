@@ -145,6 +145,7 @@
 @@||dns.weixin.qq.com^$important
 @@||aegis.qq.com^$important
 @@||trk.dbrand.com^$important
+@@||goplay.su^$important
 @@||bf80996fas.bf.dynatrace.com^$important
 @@||hubmanchubgirl.store^$important
 @@||p16-tiktok-ads-sg.tiktokcdn.com^$important
