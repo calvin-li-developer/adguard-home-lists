@@ -4,6 +4,9 @@
 @@||*.store^$important
 @@||*.site^$important
 
+# Plex
+@@||plex.direct^$important
+
 # Riot Games
 @@||featureassets.org^$important
 
