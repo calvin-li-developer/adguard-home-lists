@@ -151,6 +151,7 @@
 @@||javx.cc^$important
 @@||dns.weixin.qq.com^$important
 @@||aegis.qq.com^$important
+@@||purr.rip^$important
 @@||trk.dbrand.com^$important
 @@||goplay.su^$important
 @@||bf80996fas.bf.dynatrace.com^$important
