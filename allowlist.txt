@@ -141,6 +141,7 @@
 @@||gamebounty.world^$important
 @@||www.gamebounty.world^$important
 @@||cdn-go.cn^$important
+@@||vidsrc.vip^$important
 @@||prd.jwpltx.com^$important
 @@||tags.tiqcdn.com^$important
 @@||rips.cc^$important
