@@ -150,6 +150,8 @@
 @@||qq-web-legacy.cdn-go.cn^$important
 @@||replicate.delivery^$important
 @@||javguard.club^$important
+@@||acermovies.fun^$important
+@@||lunastream.fun^$important
 @@||javx.cc^$important
 @@||dns.weixin.qq.com^$important
 @@||aegis.qq.com^$important
