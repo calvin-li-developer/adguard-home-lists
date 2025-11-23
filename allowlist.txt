@@ -140,6 +140,7 @@
 @@||www.anydebrid.com^$important
 @@||gamebounty.world^$important
 @@||www.gamebounty.world^$important
+@@||vidbox.cc^$important
 @@||cdn-go.cn^$important
 @@||vidsrc.vip^$important
 @@||prd.jwpltx.com^$important
