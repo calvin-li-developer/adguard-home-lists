@@ -93,6 +93,7 @@
 @@||auth.acloud.guru^$important
 @@||dt-cdn.net^$important
 @@||learn.acloud.guru^$important
+@@||squid.wtf^$important
 @@||prod-api.acloud.guru^$important
 @@||cdn.split.io^$important
 @@||acloud.guru^$important
