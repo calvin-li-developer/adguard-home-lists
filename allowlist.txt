@@ -135,6 +135,7 @@
 @@||moviesmod.space^$important
 @@||www.uhdmovies.mov^$important
 @@||media.flixcar.com^$important
+@@||obnoxious.lol^$important
 @@||uhdmovies.mov^$important
 @@||vadapav.mov^$important
 @@||www.vadapav.mov^$important
