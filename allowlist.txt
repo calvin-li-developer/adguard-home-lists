@@ -55,12 +55,14 @@
 @@||plausible.io^$important
 @@||ipgeolocation.abstractapi.com^$important
 
-# Banking
+# Banking / Finance
 @@||bmo.com^$important
 @@||td.com^$important
 @@||scotiabank.com^$important
 @@||royalbank.com^$important
 @@||bmo.com.ssl.d1.sc.omtrdc.net^$important
+@@||amplitude.com^$important
+@@||braze.com^$important
 
 # Streaming
 @@||www.sodapoppin.shop^$important
