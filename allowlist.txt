@@ -61,9 +61,11 @@
 @@||scotiabank.com^$important
 @@||royalbank.com^$important
 @@||bmo.com.ssl.d1.sc.omtrdc.net^$important
+
 @@||amplitude.com^$important
 @@||braze.com^$important
 @@||api.userway.org^$important
+@@||nexus.ensighten.com^$important
 
 # Streaming
 @@||www.sodapoppin.shop^$important
