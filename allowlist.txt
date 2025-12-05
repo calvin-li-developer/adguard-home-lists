@@ -63,6 +63,7 @@
 @@||bmo.com.ssl.d1.sc.omtrdc.net^$important
 @@||amplitude.com^$important
 @@||braze.com^$important
+@@||api.userway.org^$important
 
 # Streaming
 @@||www.sodapoppin.shop^$important
