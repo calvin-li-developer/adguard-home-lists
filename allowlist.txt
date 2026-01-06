@@ -137,6 +137,7 @@
 @@||tiktokcdn.com.bytegeo.akadns.net^$important
 @@||www.moviesmod.space^$important
 @@||pahe.ink^$important
+@@||viewcrate.cc^$important
 @@||tilt.fyi^$important
 @@||technical.city^$important
 @@||moviesmod.space^$important
