@@ -61,7 +61,7 @@
 @@||scotiabank.com^$important
 @@||royalbank.com^$important
 @@||bmo.com.ssl.d1.sc.omtrdc.net^$important
-@@||cdaas.americanexpress.com^$important
+@@||americanexpress.com^$important
 
 @@||amplitude.com^$important
 @@||braze.com^$important
