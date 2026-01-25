@@ -170,6 +170,8 @@
 @@||javx.cc^$important
 @@||dns.weixin.qq.com^$important
 @@||aegis.qq.com^$important
+@@||live-video.net^$important
+@@||tiktokcdn.com^$important
 @@||purr.rip^$important
 @@||trk.dbrand.com^$important
 @@||goplay.su^$important
