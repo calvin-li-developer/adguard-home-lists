@@ -11,7 +11,7 @@
 # Riot Games
 @@||featureassets.org^$important
 
-# E-commerce Site
+# E-commerce Sites
 @@||static.pub^$important
 @@||forums.lenovo.com^$important
 @@||lenovo.com^$important
@@ -82,6 +82,7 @@
 @@||shangri-la.com^$important
 
 # Misc
+@@||h.online-metrix.net^$important
 @@||topmovies.rip^$important
 @@||moviesmod.plus^$important
 @@||scloudx.lol^$important
