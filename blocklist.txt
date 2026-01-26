@@ -1,5 +1,8 @@
+# TLD
 ||zip^
 ||mov^
+
+# Misc
 ||adtago.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 ||analytics.s3.amazonaws.com^
@@ -27,3 +30,4 @@
 ||ssl.google-analytics.com^
 ||analytics.google.com^
 ||click.googleanalytics.com^
+||rozenfeld.xyz^$important
