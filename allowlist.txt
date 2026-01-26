@@ -17,6 +17,7 @@
 @@||lenovo.com^$important
 @@||strack.bestbuy.ca^$important 
 @@||image.communications.bestbuypromotions.ca^$important
+@@||swasc.homedepot.ca^$important
 
 # Amazon
 @@||cloudfront.net^$important
