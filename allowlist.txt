@@ -19,6 +19,9 @@
 @@||image.communications.bestbuypromotions.ca^$important
 @@||swasc.homedepot.ca^$important
 
+# Cookie Consent JS
+@@||cdn.cookielaw.org^$important
+
 # Amazon
 @@||cloudfront.net^$important
 @@||passport.amazon.jobs^$important
