@@ -15,9 +15,11 @@
 @@||static.pub^$important
 @@||forums.lenovo.com^$important
 @@||lenovo.com^$important
-@@||strack.bestbuy.ca^$important 
+@@||bestbuy.ca^$important 
 @@||image.communications.bestbuypromotions.ca^$important
-@@||swasc.homedepot.ca^$important
+@@||homedepot.ca^$important
+@@||pcid.ca^$important
+@@||loblaw.ca^$important
 
 # Cookie Consent JS
 @@||cdn.cookielaw.org^$important
