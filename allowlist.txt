@@ -103,6 +103,7 @@
 @@||ba.balley.top^$important
 @@||ba.apperoni.top^$important
 @@||www.javhd.today^$important
+@@||freedium.cfd^$important
 @@||typekit.net^$important
 @@||javhd.today^$important
 @@||auth.acloud.guru^$important
