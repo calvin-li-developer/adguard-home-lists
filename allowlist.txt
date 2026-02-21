@@ -102,6 +102,7 @@
 @@||ba.alphafish.top^$important
 @@||ba.balley.top^$important
 @@||ba.apperoni.top^$important
+@@||visariomedia.com^$important
 @@||www.javhd.today^$important
 @@||freedium.cfd^$important
 @@||typekit.net^$important
