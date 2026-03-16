@@ -42,9 +42,7 @@
 
 # VPNs
 @@||twingate.com^$important
-@@||www.privateinternetaccess.com^$important
 @@||privateinternetaccess.com^$important
-@@||www.protonvpn.com^$important
 @@||protonvpn.com^$important
 @@||wireguard.com^$important
 @@||vpn-api.proton.me^$important
