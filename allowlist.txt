@@ -70,6 +70,7 @@
 @@||americanexpress.com^$important
 @@||wealthsimple.com^$important
 @@||questrade.com^$important
+@@||sunlife.com^$important
 
 @@||amplitude.com^$important
 @@||braze.com^$important
