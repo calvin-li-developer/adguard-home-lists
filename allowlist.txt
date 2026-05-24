@@ -21,6 +21,7 @@
 @@||pcid.ca^$important
 @@||loblaw.ca^$important
 @@||ticketmaster.ca^$important
+@@||ticketmaster.com^$important
 
 # Cookie Consent JS
 @@||cdn.cookielaw.org^$important
