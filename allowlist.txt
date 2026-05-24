@@ -20,6 +20,7 @@
 @@||homedepot.ca^$important
 @@||pcid.ca^$important
 @@||loblaw.ca^$important
+@@||ticketmaster.ca^$important
 
 # Cookie Consent JS
 @@||cdn.cookielaw.org^$important
