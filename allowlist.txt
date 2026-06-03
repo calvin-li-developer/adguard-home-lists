@@ -22,6 +22,7 @@
 @@||loblaw.ca^$important
 @@||ticketmaster.ca^$important
 @@||ticketmaster.com^$important
+@@||bestco.shop^$important
 
 # Cookie Consent JS
 @@||cdn.cookielaw.org^$important
