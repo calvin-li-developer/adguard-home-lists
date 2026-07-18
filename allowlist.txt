@@ -4,6 +4,7 @@
 @@||*.space^$important
 @@||*.store^$important
 @@||*.site^$important
+@@||*.cc^$important
 
 # Plex
 @@||plex.direct^$important
