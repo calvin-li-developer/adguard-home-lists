@@ -116,6 +116,7 @@
 @@||learn.acloud.guru^$important
 @@||squid.wtf^$important
 @@||prod-api.acloud.guru^$important
+@@||betterbeing.world^$important
 @@||cdn.split.io^$important
 @@||acloud.guru^$important
 @@||sdk.split.io^$important
